@@ -6,8 +6,6 @@
 
 기능 구현보다 *"왜 이 기능이 필요한가, 나중에도 유지될 수 있는가"* 를 먼저 고민합니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwldn-di&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 ---
