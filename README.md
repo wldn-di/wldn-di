@@ -52,7 +52,7 @@
 
 ---
 
-### 🔹 Legacy Migration Project — 기업 연계 프로젝트 `25.12 ~ 26.01`
+### 🔹 Legacy Migration Project — 기업 외주 프로젝트 `25.12 ~ 26.01`
 
 > 레거시 시스템 마이그레이션 프로젝트
 
